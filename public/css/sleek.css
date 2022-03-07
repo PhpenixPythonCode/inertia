@@ -110,6 +110,7 @@ header #intro {
 
 .form button:focus {
 	border: solid 1.2px rgb(255, 255, 255);
+	size: 2;
 }
 
 .navbar {
